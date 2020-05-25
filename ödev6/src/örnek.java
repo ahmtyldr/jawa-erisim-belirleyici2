@@ -1,4 +1,5 @@
-
+//burada private olan bir erişim belirleyiciye diğer class'lardan nasıl erşebileceğimiz ve private olan erişim belirleyiciyi nasıl
+//modifiye edebileceğimiz gösteriyoruz
 public class örnek {
     public class ödev {
 
